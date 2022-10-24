@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+  
+}
+
+#canvas1{
+    
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:1440px;
+    height:1024px;
+    
+}
+
+.container1 {
+    position: absolute;
+    width: 145.95px;
+    height: 186.91px;
+    left: 79.35px;
+    top: 689.56px;
+  
+  }
+  
+.container2{
+    position: absolute;
+width: 115.68px;
+height: 149.71px;
+left: 1250.74px;
+top: 735.4px;
+}
+
+.container3{
+    position: absolute;
+width: 122.68px;
+height: 119.45px;
+left: 1240.06px;
+top: 54.31px;
+
+}
+
+.html1{
+    position: relative;
+width: 1440px;
+height: 1024px;
+}
+
+.html2{
+    position: absolute;
+width: 612.43px;
+height: 1024px;
+left: 413.79px;
+top: 0px;
+}
+
+.html3{
+    position: relative;
+width: 1440px;
+height: 1024px;
+}
